@@ -1,3 +1,5 @@
+package PresentationSchedule;
+
 import ir.proprog.enrollassist.Exception.ExceptionList;
 import ir.proprog.enrollassist.domain.section.PresentationSchedule;
 import org.junit.jupiter.api.*;
